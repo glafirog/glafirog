@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glafirog
 - 👀 I’m interested in Web scrapping and Automating tasks
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Statistical Analysis using Python and JSL Language
+- 💞️ I’m looking to collaborate on Statistical Analysis using R, Python and JSL Language
 - 📫 How to reach me gglafiro@gmail.com
 
 <!---
